@@ -5,7 +5,7 @@
          point="org.eclipse.ui.newWizards">
       <category
             id="com.aspose.eclipse.maven.wizard"
-            name="Aspose">
+            name="Aspose Maven">
       </category>
       <wizard
             category="com.aspose.eclipse.maven.wizard"
