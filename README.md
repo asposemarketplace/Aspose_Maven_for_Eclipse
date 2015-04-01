@@ -11,6 +11,7 @@ Aspose Maven for Eclipse IDE plugin enables Java developers to work with various
 ## How to install Aspose Maven Project Wizard
 
 *   Drag and drop installation from[ Eclipse Marketplace](http://marketplace.eclipse.org/content/aspose-maven-project-wizard) to your Eclipse workspace.
+*   Or download the plugin jar from [Release](https://github.com/asposemarketplace/Aspose_Maven_for_Eclipse/releases) and copy it into /dropins folder of Eclipse installation and restart the IDE. 
 
 ## How to configure source code of Aspose Maven Project Wizard
 
@@ -26,5 +27,6 @@ Below simple steps will smoothly lead to successful configuration of**Aspose Mav
 **Recommended Links**
 
 *   [Aspose Java Components](http://www.aspose.com/java/total-component.aspx)
+*   [Video tutorial on "Aspose Maven Project Wizard" for Eclipse IDE](https://youtu.be/qQqHOEhRTUM)
 
 ![](http://i.imgur.com/IB3pzFP.jpg)
