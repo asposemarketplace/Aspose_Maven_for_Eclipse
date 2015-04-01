@@ -16,17 +16,17 @@ Aspose Maven for Eclipse IDE plugin enables Java developers to work with various
 
     http://cdn.aspose.com/marketplace/maven
 
-Then select "Aspose Maven Project Wizard" and Finish. Accept License Agreement and Install the plugin.
+    Then select "Aspose Maven Project Wizard" and Finish. Accept License Agreement and Install the plugin.
 
 ## How to configure source code of Aspose Maven Project Wizard
 
-Below simple steps will smoothly lead to successful configuration of**Aspose Maven Project Wizard** source code in Eclipse IDE
+Below simple steps will smoothly lead to successful configuration of **Aspose Maven Project Wizard** source code in Eclipse IDE
 
 1.  Download / Clone the source code.
-2.  Choose**File** >**Import > General > Existing Projects into Workspace**
+2.  Choose **File** >**Import > General > Existing Projects into Workspace**
 3.  Browse to the latest project source that you have downloaded
 4.  Select the Eclipse Project you want to import
-5.  Click**Finish**
+5.  Click **Finish**
 6.  Aspose Maven for Eclipse plugin code is now ready to enhance.
 
 **Recommended Links**
