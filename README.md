@@ -29,9 +29,15 @@ Below simple steps will smoothly lead to successful configuration of **Aspose Ma
 5.  Click **Finish**
 6.  Aspose Maven for Eclipse plugin code is now ready to enhance.
 
-**Recommended Links**
+### **Recommended Links**
 
 *   [Aspose Java Components](http://www.aspose.com/java/total-component.aspx)
-*   [Video tutorial on "Aspose Maven Project Wizard" for Eclipse IDE](https://youtu.be/qQqHOEhRTUM)
+*   [Video tutorial of Plugin - How to create Aspose maven based project in Eclipse IDE](https://youtu.be/qQqHOEhRTUM)
+*   [Detailed Documentation of the Plugin - Aspose Maven for Eclipse](http://docs.aspose.com:8082/docs/display/totaljava/3.3+Aspose.Total+Java+for+Eclipse+%28Maven%29)
+*   [How to configure Aspose Cloud Maven Repository in your existing maven projects and work with Aspose APIs ...](https://asposemaveneclipse.codeplex.com/documentation)
+*   [How to use Aspose Maven Project Wizard in Eclipse ...](http://docs.aspose.com:8082/docs/display/totaljava/3.3.2+Installation+and+Usage)
+*   [Aspose Blog - Aspose Cloud Maven Repository](http://goo.gl/86Go7P)
+*   [Aspose Maven Project Archetype 1.0 in Eclipse IDE](http://goo.gl/zeBJFw)
+*   [Aspose Maven Javadocs in Major IDEs](http://goo.gl/VGfxMR)
 
 ![](http://i.imgur.com/IB3pzFP.jpg)
