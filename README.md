@@ -32,6 +32,7 @@ Below simple steps will smoothly lead to successful configuration of **Aspose Ma
 ### **Recommended Links**
 
 *   [Aspose Java Components](http://www.aspose.com/java/total-component.aspx)
+*   [Aspose Blog - Aspose Maven for Eclipse](http://goo.gl/oRwbgG)
 *   [Video tutorial of Plugin - How to create Aspose maven based project in Eclipse IDE](https://youtu.be/qQqHOEhRTUM)
 *   [Detailed Documentation of the Plugin - Aspose Maven for Eclipse](http://docs.aspose.com:8082/docs/display/totaljava/3.3+Aspose.Total+Java+for+Eclipse+%28Maven%29)
 *   [How to configure Aspose Cloud Maven Repository in your existing maven projects and work with Aspose APIs ...](https://asposemaveneclipse.codeplex.com/documentation)
